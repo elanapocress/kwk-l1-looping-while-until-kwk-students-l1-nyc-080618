@@ -5,3 +5,4 @@ def Hogwarts
   levitation force += 1
   end
 end
+Hogwarts
