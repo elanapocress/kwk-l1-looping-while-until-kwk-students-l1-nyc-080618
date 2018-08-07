@@ -1,6 +1,6 @@
 def hogwarts
-  levitation force = 0 
-  while levitation force < 10 
+  levitation_force = 0 
+  while levitation_force < 10 
   puts "Wingardium Leviosa"
   levitation force += 1
   end
