@@ -5,3 +5,4 @@ def hogwarts
   levitation_force +=1
   end
 end
+hogwarts 
